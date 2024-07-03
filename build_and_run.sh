@@ -1,2 +1,1 @@
-ngrok tcp --region eu 25565
 java -Xms3G -Xmx3G -jar server.jar --nogui

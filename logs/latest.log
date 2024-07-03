@@ -1,1 +1,74 @@
-[22:05:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:06:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:06:38] [ServerMain/INFO]: Loaded 1175 recipes
+[23:06:38] [ServerMain/INFO]: Loaded 1276 advancements
+[23:06:38] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[23:06:38] [Server thread/INFO]: Loading properties
+[23:06:38] [Server thread/INFO]: This server is running Paper version 1.20.6-148-ver/1.20.6@20f5165 (2024-07-02T15:37:33Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[23:06:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:06:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:06:40] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[23:06:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[23:06:40] [Server thread/INFO]: Default game type: SURVIVAL
+[23:06:40] [Server thread/INFO]: Generating keypair
+[23:06:40] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[23:06:41] [Server thread/INFO]: Using epoll channel type
+[23:06:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:06:41] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[23:06:41] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.0.15
+[23:06:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:06:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.15
+[23:06:43] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.6.
+[23:06:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:06:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:06:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:06:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:06:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:06:43] [Server thread/INFO]: Preparing level "world"
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.0.15
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: fcfa8b9
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:06:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:06:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:06:46] [Server thread/INFO]: Time elapsed: 1494 ms
+[23:06:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:06:46] [Server thread/INFO]: Time elapsed: 269 ms
+[23:06:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:06:46] [Server thread/INFO]: Time elapsed: 198 ms
+[23:06:46] [Server thread/INFO]: Running delayed init tasks
+[23:06:46] [Server thread/INFO]: Done (8.030s)! For help, type "help"
+[23:06:46] [Server thread/INFO]: Timings Reset
+[23:07:31] [Server thread/INFO]: Stopping server
+[23:07:31] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.15
+[23:07:31] [Server thread/INFO]: Saving players
+[23:07:31] [Server thread/INFO]: Saving worlds
+[23:07:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:07:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:07:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:07:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:07:31] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.30s
+[23:07:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:07:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:07:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:07:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:07:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:07:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[23:07:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:07:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:07:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:07:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:07:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:07:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.07s
+[23:07:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:07:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:07:32] [Server thread/INFO]: Flushing Chunk IO
+[23:07:32] [Server thread/INFO]: Closing Thread Pool
+[23:07:32] [Server thread/INFO]: Closing Server
